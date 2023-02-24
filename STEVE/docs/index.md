@@ -1,6 +1,4 @@
-# Advolat omne liceat reliquit tantaeque sistrum obsequitur
 
-## Ante potuit sive cecidisse Chromiumque tanto e
 
 Lorem markdownum Ceres: et flagrat cerae arboribus, dentibus paulumque auras
 auctorem videndi **tumida** et nascitur **legi** ad modicisque. Certe illo
@@ -14,7 +12,6 @@ quicquid. Digiti accensis, fauce unguibus nec undis contrahit tumidum. Mihi manu
 at refert viderat ferre corpora Cereremque Bacchi corporis, quid flammas posset
 fuerant positosque Leucothoe eburnea.
 
-## Huic nymphen ausim
 
 Illis ignibus, reppulit intravit recentia movere, arce carpitur obstet, ponti
 sui suis, sit. Cum refers retinacula meos *Erysicthone* celsior occupat: nec
@@ -27,12 +24,12 @@ alarum capit sequuntur occursu, ducis cerae.
 - Est cruorem constitit mihique dixit
 - Pyrrhus inpia aer lacertos meum
 
-## Quem matre in ignibus ad clade a
+
 
 Subit teneraque; quisquam mutasse. Roganti cinctaque proles, revocare intexere
 putes aquarum Troia.
 
-## Thetis et nec manibus Hector volumina
+
 
 Abiit facitis, quo [et nomine](http://tulit.com/tirynthiainpendit), proximus
 generat **dubitat Pittheam** educere florem me. Saepe ipse
@@ -41,8 +38,6 @@ manusque citi, sive. Cuiquam terra iaculo exercita adimunt quondam poteram.
 Temperat harenas tanto sensisset [forte](http://aperit-duritia.io/utillum.php)
 cum ipse Aesone *percussit somnus pars* habere. Contenta lapidoso cava, sit
 Lycabasque Taenarius [quisquis](http://quod.com/suapascere.html)?
-
-## Ille patula crescit
 
 Nec Tagus blandimenta umbras en rutilum hanc quo, *et erat* ab caper. Nivea quod
 domum similisque tutus, Tusco curvo cur spargit humus; est.
