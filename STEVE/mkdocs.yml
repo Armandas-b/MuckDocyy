@@ -1,6 +1,6 @@
 site_name: My Docs
 
-theme: windmill-dark
+theme: 'windmill-dark'
   
 markdown_extensions:
   - extra
