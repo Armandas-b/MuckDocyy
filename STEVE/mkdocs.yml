@@ -5,7 +5,3 @@ theme:
 
 markdown_extensions:
   - extra
-
-hide:
-  -navigation
-  -toc
