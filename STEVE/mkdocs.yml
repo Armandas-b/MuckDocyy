@@ -1,7 +1,6 @@
 site_name: My Docs
 
-theme:
-  name: bootstrap386
-
+theme: windmill-dark
+  
 markdown_extensions:
   - extra
