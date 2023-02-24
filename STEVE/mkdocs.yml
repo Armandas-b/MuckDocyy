@@ -1,0 +1,7 @@
+site_name: My Docs
+
+theme:
+  name: bootstrap386
+
+markdown_extensions:
+  - extra
